@@ -18,8 +18,10 @@ This is website to play videos and have a set of videos.
 
 * #### Page 5
 
-![image](https://github.com/subratkumarnayak02/Videohub/assets/79637254/0d40077e-44d2-4450-b41c-760e1792079d)
+![image](https://github.com/subratkumarnayak02/Videohub/assets/79637254/0ced3eec-de4c-40f4-87fa-648fe4c4775c)
+
 
 * #### Page 6
 
-![image](https://github.com/subratkumarnayak02/Videohub/assets/79637254/2a8e12ca-7900-4a4f-be7c-625fea399440)
+![image](https://github.com/subratkumarnayak02/Videohub/assets/79637254/7bac0eb3-b2e0-4fef-8f2b-c4fd761d37cd)
+
