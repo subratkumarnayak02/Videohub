@@ -1,4 +1,4 @@
-This is website to play videos and have a set of videos. 
+This is an E-learning website to play videos and have a set of videos. 
 
 * #### Page 1
 
